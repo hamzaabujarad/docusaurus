@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 2
+slug: /install
 ---
 
-# Tutorial Monitara
+# How to register ?
 
 Let's discover **Docusaurus in less than 10 minutes**.
 
