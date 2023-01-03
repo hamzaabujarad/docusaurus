@@ -5,4 +5,15 @@ slug: /devops/environments
 
 # Environments  
 
-An environment is a physical or logical container for an application, e.g. Development, Staging or Production.
+They organize The apps and servers into different environments and categorize The infrastructure and application within them.
+
+## Getting Started
+
+navigate to **_[environments](https://www.monitara.com/TenantManagement/Environments/Search)_** and press on **_Add New Environment_**
+
+
+:::info
+
+You must associate the environment with at least one **_project_**.
+
+:::
